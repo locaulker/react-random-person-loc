@@ -237,7 +237,7 @@ p {
 
 @media screen and (min-width: 800px) {
   .user-value {
-    font-size: 38px;
+    font-size: 30px;
   }
   .icon {
     font-size: 2rem;
